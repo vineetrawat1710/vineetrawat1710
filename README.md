@@ -6,197 +6,75 @@
 
 Building backend systems and AI-powered applications.
 
-<br>
-
-<a href="https://www.linkedin.com/in/vineet-singh-rawat-3861b43b2/" target="_blank">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="38" alt="LinkedIn"/>
+<a href="https://www.linkedin.com/in/vineet-singh-rawat-3861b43b2">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/>
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 <a href="mailto:vineetrawat1710@gmail.com">
-  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="38" alt="Gmail"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="30"/>
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/vineetrawat1710" target="_blank">
-  <img src="https://cdn.simpleicons.org/github/FFFFFF" width="38" alt="GitHub"/>
+&nbsp;&nbsp;
+<a href="https://github.com/vineetrawat1710">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30"/>
 </a>
 
 </div>
 
 ---
 
-## About Me
+## About
 
 I'm a Python developer focused on backend development and AI.
 
-I enjoy building applications from the backend up — designing APIs,
-working with databases, integrating AI, and turning ideas into working
-products.
-
-Currently, I'm working with Python, FastAPI, PostgreSQL and AI tools
-to build practical applications.
-
----
-
-## What I Do
-
-**Backend Development**
-
-Build REST APIs and backend services using Python and FastAPI,
-with PostgreSQL and Redis for data and caching.
-
-**AI Applications**
-
-Build applications using LLMs, RAG, AI agents and external AI APIs.
-
-**Voice AI**
-
-Work with real-time voice applications using Pipecat, LiveKit
-and speech technologies.
-
-**Developer Tools**
-
-Build tools that make development and API workflows easier.
+I build APIs, backend services and AI-powered applications using
+Python, FastAPI, PostgreSQL and modern AI tools.
 
 ---
 
 ## Tech Stack
 
-<div align="center">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,fastapi,postgres,redis,docker,aws,linux,git,github,postman" />
+</p>
 
-### Languages
-
-<img src="https://skillicons.dev/icons?i=python,cpp,js,ts" />
-
-<br><br>
-
-### Backend & Database
-
-<img src="https://skillicons.dev/icons?i=fastapi,postgres,redis" />
-
-<br><br>
-
-### Tools & Cloud
-
-<img src="https://skillicons.dev/icons?i=docker,aws,linux,git,github,postman" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-`OpenAI` &nbsp; `RAG` &nbsp; `AI Agents` &nbsp; `Pipecat` &nbsp;
-`LiveKit` &nbsp; `ElevenLabs` &nbsp; `Mem0`
-
-</div>
+<p align="center">
+  OpenAI · RAG · AI Agents · Pipecat · LiveKit · ElevenLabs · Mem0
+</p>
 
 ---
 
-## Selected Projects
+## Projects
 
-### FORGE
-
-An API development platform for creating, testing and managing APIs.
-
-**Built with:** Python · FastAPI · PostgreSQL · React · TypeScript
-
-<a href="https://github.com/vineetrawat1710/FORGE">
-View Project →
-</a>
-
----
-
-### JARVIS
-
-A real-time AI voice assistant built for natural voice conversations.
-
-**Built with:** Python · Pipecat · LiveKit · LLMs
-
-<a href="https://github.com/vineetrawat1710/JARVIS-Pipecat-Agent">
-View Project →
-</a>
-
----
-
-### AI Chatbot for Farmers
-
-A conversational AI application that helps farmers with
-agricultural questions.
-
-**Built with:** Python · AI · APIs · Voice
-
-<a href="https://github.com/vineetrawat1710/AI-Chatbot-For-Farmers">
-View Project →
-</a>
-
----
-
-### TransitOps
-
-A software project focused on managing and improving
-transport operations.
-
-**Built with:** TypeScript · Backend Systems
-
-<a href="https://github.com/vineetrawat1710/TransitOps">
-View Project →
-</a>
+| Project | Description | Technologies |
+|:---|:---|:---|
+| **[FORGE](https://github.com/vineetrawat1710/FORGE)** | API development platform for creating, testing and managing APIs. | FastAPI · PostgreSQL · React |
+| **[JARVIS](https://github.com/vineetrawat1710/JARVIS-Pipecat-Agent)** | Real-time AI voice assistant for natural conversations. | Python · Pipecat · LiveKit |
+| **[AI Chatbot for Farmers](https://github.com/vineetrawat1710/AI-Chatbot-For-Farmers)** | AI chatbot for answering agricultural questions. | AI · Python · APIs |
+| **[TransitOps](https://github.com/vineetrawat1710/TransitOps)** | Software project for transport operations. | TypeScript · Backend |
 
 ---
 
 ## Currently Learning
 
-<div align="center">
-
-| Backend | AI | Cloud |
-|:---:|:---:|:---:|
-| FastAPI | AI Agents | AWS |
-| System Design | RAG | Docker |
-| PostgreSQL | LLM Applications | Linux |
-| Scalable APIs | Voice AI | Deployment |
-
-</div>
+`System Design` · `AI Agents` · `RAG` · `AWS` · `Scalable Backend Systems`
 
 ---
 
 ## GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=vineetrawat1710&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vineetrawat1710&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
-
-</div>
-
----
-
-## Connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/vineet-singh-rawat-3861b43b2/" target="_blank">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="32" alt="LinkedIn"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:vineetrawat1710@gmail.com">
-  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="32" alt="Gmail"/>
-</a>
-
-<br><br>
-
-<a href="https://github.com/vineetrawat1710">
-  github.com/vineetrawat1710
-</a>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vineetrawat1710&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vineetrawat1710&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%"/>
+</p>
 
 ---
 
 <div align="center">
 
-### Building useful software with Python and AI.
+<a href="https://www.linkedin.com/in/vineet-singh-rawat-3861b43b2">LinkedIn</a>
+&nbsp; · &nbsp;
+<a href="mailto:vineetrawat1710@gmail.com">Email</a>
+&nbsp; · &nbsp;
+<a href="https://github.com/vineetrawat1710">GitHub</a>
 
 </div>
